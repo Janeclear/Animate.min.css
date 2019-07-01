@@ -6,7 +6,7 @@ You may understand how it works with Animate.min.css
 
 ### 1. clone repository
 ```
-git clone git@github.com:shutokawabata0723/Animate.git
+git clone git@github.com:shutokawabata0723/ForU.git
 ```
 
 ### 2. open index.html
